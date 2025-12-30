@@ -2,7 +2,7 @@
 Дипломная работа по автоматизации UI и API тестов для сайта "Читай-город"
 
 Оглавление
-Описание
+
 Шаги для запуска
 Получение токена
 Стек технологий
@@ -32,6 +32,6 @@ allure - библиотека для генерации отчетов о вып
 ./test - тесты
 ./pages - описание страниц
 Полезные ссылки
-Документация pytest
-Документация Selenium
-Документация Allure
+Документация pytesthttps://docs.pytest.org/en/stable/
+Документация Seleniumhttps://www.selenium.dev/documentation/webdriver/
+Документация Allurehttps://docs.qameta.io/allure/
